@@ -4,7 +4,7 @@ Mini Motion Games è un gioco mobile sviluppato in **Flutter** che combina il mo
 
 ---
 
-##Gameplay
+## Gameplay
 
 - Controllo del pesce tramite accelerometro del dispositivo (tilt X e Y).
 - Obiettivi principali:
@@ -19,7 +19,7 @@ Mini Motion Games è un gioco mobile sviluppato in **Flutter** che combina il mo
 
 ---
 
-##Caratteristiche principali
+## Caratteristiche principali
 
 - **Controllo intuitivo tramite accelerometro** (`sensors_plus`).
 - **Gestione dinamica dei livelli** con spawn casuale di nemici, goal e bonus.
@@ -29,7 +29,7 @@ Mini Motion Games è un gioco mobile sviluppato in **Flutter** che combina il mo
 
 ---
 
-##Struttura del progetto
+## Struttura del progetto
 
 
 lib/
@@ -61,7 +61,7 @@ assets/
 
 ---
 
-##Come giocare
+## Come giocare
 
 1. Avvia il gioco.
 2. Nella schermata iniziale (Splash Screen), fare **double tap** per iniziare.
@@ -73,7 +73,7 @@ assets/
 
 ---
 
-##Dipendenze
+## Dipendenze
 
 - Flutter SDK
 - [sensors_plus](https://pub.dev/packages/sensors_plus) per l’input accelerometro.
