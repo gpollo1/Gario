@@ -33,30 +33,29 @@ Mini Motion Games è un gioco mobile sviluppato in **Flutter** che combina il mo
 
 
 lib/
-├── main.dart # Entry point dell’app
-├── screens/
-│ ├── splash_screen.dart
-│ └── game_screen.dart
-├── widgets/
-│ └── hud.dart # HUD con punteggio, vite e tempo
-├── game/
-│ ├── game_controller.dart
-│ └── game_objects.dart # Definizione Enemy, Goal, Bonus
+main.dart # Entry point dell’app
+screens/
+splash_screen.dart
+game_screen.dart
+widgets/
+hud.dart # HUD con punteggio, vite e tempo
+game_controller.dart
+game_objects.dart # Definizione Enemy, Goal, Bonus
 assets/
-├── images/
-│ ├── fish_up.png
-│ ├── fish_down.png
-│ ├── fish_left.png
-│ ├── fish_right.png
-│ ├── enemy.png
-│ ├── goal.png
-│ ├── bonus.png
-│ ├── mare.png
-│ ├── presa1.png
-│ ├── presa2.png
-│ ├── presa3.png
-│ ├── points.png
-│ └── hai_perso.png
+  images/
+    fish_up.png
+    fish_down.png
+    fish_left.png
+    fish_right.png
+    enemy.png
+    goal.png
+    bonus.png
+    mare.png
+    presa1.png
+    presa2.png
+    presa3.png
+    points.png
+    hai_perso.png
 
 
 ---
